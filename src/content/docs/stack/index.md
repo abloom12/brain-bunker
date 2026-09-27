@@ -7,20 +7,17 @@ Find notes by technology. For step-by-step tasks that span tools, check [Recipes
 
 ## Pages
 
+- [Astro](/stack/astro/)
 - [Better Auth](/stack/better-auth/)
+- [Drizzle](/stack/drizzle/)
 - [Expo](/stack/expo/)
 - [Fastify](/stack/fastify/)
 - [Git](/stack/git/)
 - [JavaScript](/stack/javascript/)
 - [Node.js](/stack/nodejs/)
+- [PostgreSQL](/stack/postgresql/)
 - [React](/stack/react/)
 - [React Native](/stack/react-native/)
 - [TanStack](/stack/tanstack/)
 - [tRPC](/stack/trpc/)
 - [TypeScript](/stack/typescript/)
-
-## Not yet pages
-
-- Astro
-- Drizzle
-- PostgreSQL
