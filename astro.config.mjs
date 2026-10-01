@@ -31,7 +31,13 @@ export default defineConfig({
 						{ label: 'React', slug: 'stack/react' },
 						{ label: 'React Native', slug: 'stack/react-native' },
 						{ label: 'TanStack', slug: 'stack/tanstack' },
-						{ label: 'tRPC', slug: 'stack/trpc' },
+						{
+							label: 'tRPC',
+							items: [
+								{ label: 'Overview', slug: 'stack/trpc' },
+								{ label: 'Basics', slug: 'stack/trpc/basics' },
+							],
+						},
 						{ label: 'TypeScript', slug: 'stack/typescript' },
 					],
 				},

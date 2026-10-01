@@ -3,4 +3,6 @@ title: tRPC
 description: Personal quick-reference notes for tRPC.
 ---
 
-A place for tRPC patterns, useful snippets, and gotchas worth keeping close at hand.
+Quick-reference notes for tRPC:
+
+- [Basics](/stack/trpc/basics/) — the mental model, type inference, and a small end-to-end example.

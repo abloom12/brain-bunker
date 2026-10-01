@@ -9,9 +9,7 @@ description: Generate an SSH key and copy its public key on macOS.
 ssh-keygen -t ed25519 -C "you@example.com"
 ```
 
-On your Mac, replace the email with yours (it's just a label for the key). At the file prompt, press Enter for the default (`~/.ssh/id_ed25519`) or choose a different filename. **Don't overwrite an existing key.** Set a passphrase when prompted.
-
-This creates a **private key** (`id_ed25519`) and a **public key** (`id_ed25519.pub`). If you chose a different filename, use that path in the commands below.
+Generates an Ed25519 key pair, using the email address as a label. The default output is `~/.ssh/id_ed25519` for the private key and `~/.ssh/id_ed25519.pub` for the public key; a custom filename changes both paths.
 
 ## Copy the public key
 
